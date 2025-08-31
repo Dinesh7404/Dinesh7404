@@ -89,7 +89,9 @@
 </p>
 
 ---
-![snake gif](https://github.com/Dinesh7404/Dinesh7404/blob/output/github-snake-dark.svg)
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Dinesh7404/Dinesh7404/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 💡 Favorite Quotes
 
