@@ -93,7 +93,7 @@
 ## 🐍 GitHub Contribution Snake
 
 
-<img src="https://github.com/Dinesh7404/Dinesh2004/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="[https://github.com/Dinesh7404/Dinesh2004/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Dinesh7404/Dinesh7404/blob/output/github-contribution-grid-snake-dark.svg)" width="100%" />
 
 ---
 
